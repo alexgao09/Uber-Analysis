@@ -3,10 +3,8 @@ First visualization app with shiny. K means clustering finds the areas in NYC th
 
 Public data was downloaded from https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city
 
-Libraries required: ggplot2, shiny, shinydashboard, leaflet, plyr
-
-uber_analysis.R performs data preprocessing and feature extraction only. 
-
-csv files must be unzipped first in data directory.
-
-*** run dashboard.R script to generate dashboard ***
+Steps to run application:
+1. Download repository
+2. Go into data folder and unzip all csv files
+3. Install the required libraries (ggplot2, shiny, shinydashboard, leaflet, plyr) if not done so already
+4. Run dashboard.R to generate the dashboard
