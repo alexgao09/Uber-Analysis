@@ -5,4 +5,6 @@ Public data was downloaded from https://www.kaggle.com/fivethirtyeight/uber-pick
 
 Libraries required: ggplot2, shiny, shinydashboard, leaflet, plyr
 
+uber_analysis.R performs data preprocessing and feature extraction only.
+
 *** run dashboard.R script to generate dashboard ***
