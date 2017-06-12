@@ -8,3 +8,7 @@ Steps to run application:
 2. Go into data folder and unzip all csv files
 3. Install the required libraries (ggplot2, shiny, shinydashboard, leaflet, plyr) if not done so already
 4. Run dashboard.R to generate the dashboard
+
+Alternatively, the following shinyapps.io link hosts a lighter version:
+
+https://agao.shinyapps.io/uber_analysis_light/
